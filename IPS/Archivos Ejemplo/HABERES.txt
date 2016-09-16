@@ -1,0 +1,30 @@
+SEC NUMERO     APELLIDO Y NOMBRES          PAGO  REG CON DESC/SALDO/PREST     H A B E R     ANT/MER  IOMA/DEC.       L I Q U I D O
+
+ 5-2 104107300/0 VALENTI CARLOS ALBERTO      5-307 B   01   020114267500          2.434,06   1.898,56      207,97
+                                                       02   *BON.AGOS/05          8.645,39       0,00      414,98
+                                                       02   *MARZO/10             1.405,02       0,00       67,44
+                                                       55   FDO. IPS. SERV. PE.                          2.588,95
+                                                                                                                     ***  11.103,69
+ 5-2 104639204/0 LE MOAL LUIS ALFREDO        5-319 B   01   020714147500          1.201,97     504,82       81,93
+                                                       02   *BON.AGOS/05          7.875,51       0,00      378,02
+                                                       02   *MARZO/10             1.405,02       0,00       67,44
+                                                       55   FDO. IPS. SERV. PE.                          1.977,72
+                                                                                                                     ***   8.482,21
+ 5-2 105354035/0 ACOSTA Y FILTRE CLAUDIO L   5-318 B   01   020402127500          1.506,88     542,47       98,37
+                                                       02   *BON.AGOS/05         11.006,36       0,00      528,31
+                                                       BO   02S000007500              0,00       0,00        0,00
+                                                       02   *MARZO/10             1.450,02       0,00       69,60
+                                                       55   FDO. IPS. SERV. PE.                          2.611,03
+                                                       LA   DGAS SERV PEN /1A                              217,59
+                                                       LB   DGAS SERV PEN/4                                181,94
+                                                                                                                     ***  10.798,89
+ 5-2 200520840/0 SUSTO ROSA BLANCA           5-084 K   01   020602177500          1.201,97     613,00       87,12
+                                                       02   *BON.AGOS/05         10.993,41       0,00      527,68
+                                                       02   *MARZO/10             1.450,02       0,00       69,60
+                                                       3G   CEN. RET. SUB. P./1                            106,94
+                                                       3H   CEN. RET. SUB. P. /                             12,00
+                                                       4E   C.SUBOFIC.GUARDIA/1                            213,88
+                                                       4I   C.SUBOF.GUARDIA /2                               8,00
+                                                       55   FDO. IPS. SERV. PE.                          2.566,51
+                                                       8I   C.SUB.OF.GUARDIA /2                              9,90
+                                                                                                                     ***  10.656,77
