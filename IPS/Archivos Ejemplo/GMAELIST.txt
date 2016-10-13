@@ -1,0 +1,58 @@
+INSTITUTO DE PREVISION SOCIAL                                                                       FECHA:  12/10/20   HOJA:   1
+PROVINCIA DE BUENOS AIRES
+
+PROG: GMAELIST                LISTADO DE LOS AGENTES QUE APARECEN EN LA LIQUIDACION DE:       PRUEBA DE AUMENTO PENSION
+
+ SUC. SEC. NUMERO         APELLIDO Y NOMBRE       FECHA  CONC.       HABER       ANTIG.            CODIGO          COD. HISCAR
+
+
+ --   32 000034492/0 LOPEZ MARIA ELENA H                  01               4,42      22,16    NC1128100053         NC1128100053
+                                                          02           2.619,77       0,00    *COMP.AL.MINIMO      NC1128100053
+                                                          02           1.044,85       0,00    *DIF MIN.            NC1128100053
+
+
+ --   3Z 000056573/0 FERNANDEZ TERESA A                   01               0,00       0,00    30848O0A235300P      30848O0A0000
+                                                          02               0,00       0,00 A  *B.DTO2495/09        32030P0A0000
+                                                          02               0,00       0,00    *BON.RADIO           30848O0A0000
+                                                          02               0,00       0,00    *D1823/05            30848O0A0000
+                                                          02               0,00       0,00    *D207/04             30848O0A0000
+                                                          02               0,00       0,00    *DMAR1/08            30848O0A0000
+                                                          02               0,00       0,00    *DMAR2/08            30848O0A0000
+                                                          02               0,00       0,00    *DMAR2014            30848O0A0000
+
+
+ --   3Z 000966811/0 MARTINA DE JESUS OJEDA               01               0,00       0,00    M035N01048000853     M035N0104800
+                                                          02               0,00       0,00    *COMP.AL.MINIMO      M035N0104800
+                                                          02               0,00       0,00    *DIF MIN.            M035N0104800
+
+
+ 5084 12 100655293/0 VEGA HECTOR ADOLFO                   01           2.247,46   2.809,32    01120A24005300       01120A000000
+                                                          02             601,55       0,00    *BONI.MAR14-5 53     01120A000000
+                                                          02           1.368,91       0,00    *D204-3/04           01120A000000
+                                                          02             954,00       0,00    *DAGOST/08N          01120A000000
+
+
+
+
+ -    12 100658788/0 COLTRINARI LUIS HORACIO              01           2.374,68   2.968,34    01120A24005600       01120A000000
+                                                          02             635,60       0,00    *BONI.MAR14-5 56     01120A000000
+                                                          02           1.446,39       0,00    *D204-3/04           01120A000000
+                                                          02           1.008,00       0,00    *DAGOST/08N          01120A000000
+
+
+ -    32 100659963/0 MILLUZZO NUNCIO BARTOLO              01           2.245,15   2.020,64    30248S0A305300Z      30248S0A0000
+                                                          02           1.333,06       0,00    *BON.HOSPITAL        30248S0A0000
+                                                          02             847,09       0,00    *D1823/05            30248S0A0000
+                                                          02              56,12       0,00    *D207/04             30248S0A0000
+                                                          02           1.317,58       0,00    *DMAR1/08            30248S0A0000
+                                                          02              56,19       0,00    *DMAR2/08            30248S0A0000
+                                                          02           1.792,67       0,00    *DMAR2014            30248S0A0000
+
+
+ 5132 12 100660476/0 PAGET ISMAEL JOSE                    01           3.350,76   4.188,45    01170A24005300       01170A000000
+                                                          02             156,44       0,00    *BONI.MAR14-9 53     01170A000000
+                                                          02           1.368,91       0,00    *D204-3/04           01170A000000
+                                                          02             954,00       0,00    *DAGOST/08N          01170A000000
+
+
+:
