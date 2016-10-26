@@ -1,0 +1,196 @@
+T005001ADOLFO ALSINA                                          1
+T005002ALBERTI                                                1
+T005003ALMIRANTE BROWN                                        1
+T005004AVELLANEDA                                             1
+T005005AYACUCHO                                               1
+T005006AZUL                                                   1
+T005007BAHIA BLANCA                                           1
+T005008BALCARCE                                               1
+T005009BARADERO                                               1
+T005010ARRECIFES                                              1
+T005011BERAZATEGUI                                            1
+T005012BERISSO                                                1
+T005013BOLIVAR                                                1
+T005014BRAGADO                                                1
+T005015BRANDSEN                                               1
+T005016CAMPANA                                                1
+T005017CA#UELAS                                               1
+T005018CAPITAN SARMIENTO                                      1
+T005019CARLOS CASARES                                         1
+T005020CARLOS TEJEDOR                                         1
+T005021CARMEN DE ARECO                                        1
+T005022DAEREAUX                                               1
+T005023CASTELLI                                               1
+T005024COLON                                                  1
+T005025CORONEL ROSALES                                        1
+T005026CORONEL DORREGO                                        1
+T005027CORONEL PRINGLES                                       1
+T005028CORONEL SUAREZ                                         1
+T005029CHACABUCO                                              1
+T005030CHASCOMUS                                              1
+T005031CHIVILCOY                                              1
+T005032DOLORES                                                1
+T005033ENSENADA                                               1
+T005034ESCOBAR                                                1
+T005035ESTEBAN ECHEVERRIA                                     1
+T005036EXALTACION DE LA CRUZ                                  1
+T005037FLORENCIO VARELA                                       1
+T005038GENERAL ALVARADO                                       1
+T005039GENERAL ALVEAR                                         1
+T005040GRAL ARENALES                                          1
+T005041GRAL BELGRANO                                          1
+T005042GRAL. GUIDO                                            1
+T005043GRAL. MADARIAGA                                        1
+T005044GRAL. LAMADRID                                         1
+T005045GRAL. LAS HERAS                                        1
+T005046GRAL. LAVALLE                                          1
+T005047GRAL. PAZ                                              1
+T005048GRAL. PINTOS                                           1
+T005049GRAL. PUEYRREDON                                       1
+T005050GRAL. RODRIGUEZ                                        1
+T005051GRAL. SAN MARTIN                                       1
+T005052SAN MIGUEL                                             1
+T005053GRAL. VIAMONTE                                         1
+T005054GRAL. VILLEGAS                                         1
+T005055GONZALEZ CHAVES                                        1
+T005056GUAMINI                                                1
+T005057HIPOLITO IRIGOYEN                                      1
+T005058JUAREZ                                                 1
+T005059JUNIN                                                  1
+T005060LANUS                                                  1
+T005061LA PLATA                                               1
+T005062LAPRIDA                                                1
+T005063LAS FLORES                                             1
+T005064LEANDRO N ALEM                                         1
+T005065LINCOLN                                                1
+T005066LOBERIA                                                1
+T005067LOBOS                                                  1
+T005068LOMAS DE ZAMORA                                        1
+T005069LUJAN                                                  1
+T005070MAGDALENA                                              1
+T005071MAIPU                                                  1
+T005072MARCOS PAZ                                             1
+T005073MAR CHIQUITA                                           1
+T005074MATANZA                                                1
+T005075MERCEDES                                               1
+T005076MERLO                                                  1
+T005077MONTE                                                  1
+T005078MORENO                                                 1
+T005079MORON                                                  1
+T005080NAVARRO                                                1
+T005081NECOCHEA                                               1
+T005082NUEVE DE JULIO                                         1
+T005083OLAVARRIA                                              1
+T005084PATAGONES                                              1
+T005085PEHUAJO                                                1
+T005086PELEGRINI                                              1
+T005087PERGAMINO                                              1
+T005088PILA                                                   1
+T005089PILAR                                                  1
+T005090PUAN                                                   1
+T005091QUILMES                                                1
+T005092RAMALLO                                                1
+T005093RAUCH                                                  1
+T005094RIVADAVIA                                              1
+T005095ROJAS                                                  1
+T005096ROQUE PEREZ                                            1
+T005097SAAVEDRA                                               1
+T005098SALADILLO                                              1
+T005099SALTO                                                  1
+T005100SALLIQUELO                                             1
+T005101SAN ANDRES DE GILES                                    1
+T005102SAN ANTONIO DE ARECO                                   1
+T005103SAN CAYETANO                                           1
+T005104SAN FERNANDO                                           1
+T005105SAN ISIDRO                                             1
+T005106SAN NICOLAS                                            1
+T005107SAN PEDRO                                              1
+T005108SAN VICENTE                                            1
+T005109SUIPACHA                                               1
+T005110TANDIL                                                 1
+T005111TAPALQUE                                               1
+T005112TIGRE                                                  1
+T005113TORDILLO                                               1
+T005114TORNQUIST                                              1
+T005115TRENQUE LAUQUEN                                        1
+T005116TRES ARROYOS                                           1
+T005117TRES DE FEBRERO                                        1
+T00511825 DE MAYO                                             1
+T005119VICENTE LOPEZ                                          1
+T005120VILLARINO                                              1
+T005121ZARATE                                                 1
+T005122DE LA COSTA                                            1
+T005123PINAMAR                                                1
+T005124VILLA GESEL                                            1
+T005125MONTE HERMOSO                                          1
+T005126TRES LOMAS                                             1
+T005127MERCADO REGINAL DE LA PLATA                            0
+T005128OBRAS SANITARIAS DE GENERAL PUYRREDON                  1
+T005129FLORENTINO AMEGHINO                                    1
+T005130EZEIZA                                                 1
+T005131PRESIDENTE PERON                                       1
+T005132JOSE CARLOS PAZ                                        1
+T005133MALVINAS ARGENTINAS                                    1
+T005134PUNTA DE INDIO                                         1
+T005135HURLINGHAM                                             1
+T005136ITUZAINGO                                              1
+T005137LEZAMA                                                 1
+T005200DIRECCION GENERAL DE CULTURA Y EDUCACION               1
+T005201MERCADO REGIONAL DE LA PLATA                           1
+T005202OBRAS SANITARIAS DE GENERAL PUYRREDON                  0
+T005203VIALIDAD                                               1
+T005204ORGANISMO REGULADOR DE AGUAS BONAERENSES               1
+T005205MINISTERIO DE SALUD                                    1
+T005206MINISTERIO DE LA PRODUCCION Y EMPLEO                   1
+T005207MRIO V Y S P (CUENTA 229/7)                            0
+T005208MRIO V Y S P                                           1
+T005209ENTE DE SERV.URBANOS Y RURALES DE LA MUN.LA PLATA      0
+T005210FISCALIA DE ESTADO                                     1
+T005211MINISTERIO DE TRABAJO                                  1
+T005212PODER JUDICIAL                                         1
+T005213MINISTERIO DE ECONOMIA                                 1
+T005214CONTADURIA DE LA PCIA                                  1
+T005215MINISTERIO DE GOBIERNO                                 1
+T005216REGISTRO DE LAS PERSONAS                               1
+T005217CONSEJO DEL MENOR                                      1
+T005218CAMARA DE SENADORES                                    1
+T005219GOBERNACION                                            1
+T005220INSTITUTO DE LA VIVIENDA                               1
+T005221TESORERIA GRAL DE LA PCIA                              1
+T005222ASESORIA GENERAL DE GOBIERNO                           1
+T005223MINISTERIO DE OBRAS SANITARIAS                         1
+T005224IOMA                                                   1
+T005225TRIBUNAL DE CUENTAS                                    1
+T005226ENTE DESCENTRALIZADO BMLP                              1
+T005227TESORERIA GENERAL DE LA PROVINCIA                      1
+T005228INSTITUTO DE PREVISION SOCIAL                          1
+T005229A.R.B.A.                                               1
+T005230MINISTERIO DE SEGURIDAD PCIA BS AS                     1
+T005231MINISTERIO DE INFRAESTRUCTURA                          1
+T005232MINISTERIO DE ASUNTOS AGRARIOS                         1
+T005233A.F.I.P. ADM FEDERAL INGRESOS PUBLICOS                 1
+T005234PATRONATO DE LIBERADOS                                 1
+T005235MINISTERIO DE DESARROLLO SOCIAL                        1
+T005236CORFO -  RIO COLORADO                                  1
+T005237HIPODROMO LA PLATA                                     1
+T005239MRIO DE JEFATURA DE GABINETE DE MINISTROS              1
+T005240COMISION INVESTIGACIONES CIENTIFICAS (C.I.C.)          1
+T005241AUTORIDAD DEL AGUA                                     1
+T005242OCABA                                                  1
+T005243JUNTA ELECTORAL                                        1
+T005244BANCO DE GALICIA Y BS AS                               1
+T005245COORDINACION GRAL UNIDAD GOBERNADOR                    1
+T005246SECRETARIA DE TURISMO                                  1
+T005253ASTILLERO RIO SANTIADO                                 1
+T005254DCCION DE LOTERIAS Y CASINO                            1
+T005255HONORABLE CAMARA DE DIPUTADOS DE LA PCIA DE BS AS.     1
+T005256SERVICIO PCIAL DE AGUA POTABLE Y SANEAMIENTO RURAL SPAR1
+T005257CONSEJO DE LA MAGITRATURA                              1
+T005258ADMINISTRACION PUNTA MOGOTES                           1
+T005600ORG PROV PARA DESARROLLO  SOSTENIBLE                   1
+T005640INSTITUTO CULTURAL PCIA BS AS                          1
+T005802SECRETARIA DE NIQEZ Y ADOLECENCIA                      1
+T005803SECRETARIA DE DEPORTES                                 1
+T005804DEFENSORIA DEL PUEBLO                                  1
+T005999CAPITAL FEDERAL                                        0
+:wq
