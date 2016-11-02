@@ -1,3 +1,4 @@
+
 SELECT      ID, TODO ,  replace(TODO,'*','')
 FROM          aux_codANT
 WHERE ID/3.00 - round(ID/3.00,2) = 0
