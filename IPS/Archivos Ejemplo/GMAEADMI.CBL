@@ -999,7 +999,7 @@
    ********IF MARCA = '1' AND NRO = '7017872740' AND 
   *********                               FECHA-MES > '200710'
    **********      THEN MOVE 100 TO PORC.
-************
+   ************
    ********     OJO  AMPARO instalado el 28-09-07 ******************
   *******************************   dado de baja 2015
        FINVALID.
